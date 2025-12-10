@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 GSK Enterprise Tools Suite - Professional Edition
 Advanced analytics platform with Python, SQL, MATLAB, Tableau & Power BI capabilities
@@ -1160,8 +1159,6 @@ def main():
     """, unsafe_allow_html=True)
 
 
-if __name__ == "__main__":
-=======
 """"
 GSK Enterprise Tools Suite - Streamlit Application
 Complete integration with Python, SQL, MATLAB, Tableau, and Power BI capabilities
@@ -2093,3 +2090,4 @@ def main():
 
 
 if __name__ == "__main__":
+    main()
